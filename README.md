@@ -1,5 +1,3 @@
-# temp-dep-rt
-
 ## Code used for the manuscript "Measuring real-time disease transmissibility with temperature-dependent generation intervals"
 
 Accurate real-time estimation of the effective reproduction number (Rt) is critical for infectious disease surveillance and response. In vector-borne diseases like dengue, temperature strongly influences disease transmission by affecting generation times. However, most existing Rt​ estimation methods assume a fixed generation interval, leading to biased estimates and unreliable assessments of transmission risk in settings with fluctuating temperatures.
